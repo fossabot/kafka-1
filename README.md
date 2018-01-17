@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcloudera%2Fkafka.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcloudera%2Fkafka?ref=badge_shield)
+
 Apache Kafka
 =================
 See our [web site](http://kafka.apache.org) for details on the project.
@@ -103,3 +105,7 @@ To contribute follow the instructions here:
 
 We also welcome patches for the website and documentation which can be found here:
  * https://svn.apache.org/repos/asf/kafka/site
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcloudera%2Fkafka.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcloudera%2Fkafka?ref=badge_large)
